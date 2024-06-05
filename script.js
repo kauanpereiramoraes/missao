@@ -9,36 +9,36 @@ const perguntas = [
         enunciado: "Assim que terminou a temporada, o corinthians planeja fazer uma reformulação no elenco , então ele está pensando em contratar dois meias, Quais contratar?",
         alternativas: [
             "igor Coronado",
-            "Rodrigo Garro!"
+            "Rodrigo Garro"
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "Com a divida do Corinthians, ele planeja diminuir a divida com a entradado novo presidente, quem seria um bom nome para a presidencia do Corinthians?",
         alternativas: [
-            "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-            "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema."
+            "augusto Melo",
+            "André Negão"
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?
+        enunciado: "com a saída do Cassio do Corinthians, o timão busca colocar um goleiro do elenco corintiano,qual seria um bom nome? "
     ",
         alternativas: [
-            "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-            "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores."
+            "Carlos Miguel",
+            "Felipe Longo"
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "Com o fim do Paulistão, o corinthians busca melhorar seu elenco, e com isso busca um novo treinador, Qual seria o melhor nome?",
         alternativas: [
-            "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-            "Criar uma imagem utilizando um gerador de imagem de IA."
+            "Antonio Oliveira",
+            "Mano Menezes"
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: "O corinthians buca um titulo que ainda é inedito na sua enorme pratileira de troféus, e com isso e ele ganhar esse titulo, ele vai se consagrar campeão de tudo, Qual titulo que falta?",
         alternativas: [
-            "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-            "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial."
+            "Sudamericana",
+            "Libertadores"
         ]
     }
 ]

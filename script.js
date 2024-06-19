@@ -7,7 +7,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 const perguntas = [
     {
         texto: "Assim que terminou a temporada, o corinthians planeja fazer uma reformulação no elenco , então ele está pensando em contratar dois meias, Quais contratar?",
-        afirmação: "afirmação"
+        afirmação: "porque o garro era o meia mais em conta no mercado"
             
             "igor Coronado",
             "Rodrigo Garro"
@@ -15,7 +15,7 @@ const perguntas = [
     },
     {
           texto: "Com a divida do Corinthians, ele planeja diminuir a divida com a entradado novo presidente, quem seria um bom nome para a presidencia do Corinthians?",
-          afirmação: "afirmação"
+          afirmação: "o candidato foi eleito com a maioria dos votos das torcidas organizadas"
               
             "augusto Melo",
             "André Negão"
@@ -23,7 +23,7 @@ const perguntas = [
     },
     {
       texto: "com a saída do Cassio do Corinthians, o timão busca colocar um goleiro do elenco corintiano,qual seria um bom nome? 
-          afirmação: "afirmação"
+          afirmação: "carlos miguel por ser o segundo goleiro"
     
             "Carlos Miguel",
             "Felipe Longo"
@@ -31,7 +31,7 @@ const perguntas = [
     },
     {
           texto: "Com o fim do Paulistão, o corinthians busca melhorar seu elenco, e com isso busca um novo treinador, Qual seria o melhor nome?",
-          afirmação: "afirmação"
+          afirmação: "antonio oliveira vai assumir o clube do Corinthians"
               
             "Antonio Oliveira",
             "Mano Menezes"
@@ -39,7 +39,7 @@ const perguntas = [
     },
     {
           texto: "O corinthians buca um titulo que ainda é inedito na sua enorme pratileira de troféus, e com isso e ele ganhar esse titulo, ele vai se consagrar campeão de tudo, Qual titulo que falta?",
-          afirmação: "afirmação"
+          afirmação: "sudamericana por ser o unico titulo faltano na galeria do Corinthians"
               
             "Sudamericana",
             "Libertadores"
